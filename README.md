@@ -3,7 +3,7 @@
 ## What
 
 Multicrypt is an encryption format designed for full disk encryption inspired by
-Sun Knudson's [blockcrypt](https://github.com/superbacked/blockcrypt). It allows
+Sun Knudsen's [blockcrypt](https://github.com/superbacked/blockcrypt). It allows
 for multiple plaintexts to be encoded into one block of ciphertext, each under
 multiple keys, while concealing their existence from each other with no forensic
 fingerprint.
